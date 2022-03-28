@@ -1,3 +1,3 @@
-# codeacademy
+# codecademy
 
 Various codecademy projects~
